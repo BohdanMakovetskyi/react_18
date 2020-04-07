@@ -1,0 +1,9 @@
+.checkbox {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 40px;
+    color: rgb(129, 118, 118);
+}
+.checkbox input {
+    margin-top: 7px;
+}

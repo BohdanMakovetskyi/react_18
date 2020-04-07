@@ -1,0 +1,13 @@
+.input {
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.input__item {
+    width: 280px;
+    margin-bottom: 20px;
+    background: rgb(27, 27, 27);
+    color:#000;
+    border:none;
+    padding: 5px 5px 5px 5px; 
+    border-radius: 4px;
+}

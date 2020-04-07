@@ -1,0 +1,21 @@
+.nav {
+    display: flex;
+    background: rgb(97, 88, 88);
+    height: 120px;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-left: 20px; 
+    margin-top: 40px;  
+    list-style: none;
+}
+
+a {
+    color: #ffffff;
+}
+
+li:hover {
+    transform: scale(1.3);
+}

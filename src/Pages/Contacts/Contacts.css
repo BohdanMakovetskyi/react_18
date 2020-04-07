@@ -1,0 +1,19 @@
+.contacts {
+    display: block;
+    height: 380px;
+    width: 300px;
+    background: #574141;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+.title {
+    margin-left: 0px;
+    padding-left: 10px;
+}
+.box {
+    margin: 0 auto;
+    width: 320px;
+    border: 2px solid #0c0909;
+    border-radius:20px;
+    background: rgb(59, 48, 48);
+}
